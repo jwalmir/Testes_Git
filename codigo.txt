@@ -2,8 +2,12 @@ Meu codido
 
 medificado para o segundo commit
 
+<<<<<<< HEAD
 modificado para branch main acima da branch1
 
 modificado novamente na branch main
 
 modificado novamente 2 na branch main
+
+modificação para a branch 1
+
