@@ -1,1 +1,3 @@
 Created a file into branch 2
+
+Created a new change into branch 2
